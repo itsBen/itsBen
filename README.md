@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<a href="https://benediktbenz.de">🌐 Website</a>
+	<a href="https://benediktbenz.com">🌐 Website</a>
 	·
 	<a href="https://www.linkedin.com/in/benediktbenz/">💼 LinkedIn</a>
 	·
