@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ben 👋</h1>
 
 <p align="center">
-	Data Engineer • Databricks Enthusiast • Driven Builder
+	Data Engineer @Mercedes-Benz AG • Freelancer @<a href="https://hochkonzept.de">Hochkonzept.de</a>
 </p>
 
 <p align="center">
-	<a href="https://benediktbenz.com">🌐 Website</a>
+	<a href="https://benediktbenz.com">🌐 Personal Website</a>
 	·
 	<a href="https://www.linkedin.com/in/benediktbenz/">💼 LinkedIn</a>
 	·
